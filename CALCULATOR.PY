@@ -1,0 +1,2 @@
+print("ADDITION:",20+20)
+print("SUBTRACTION:",100-40)
