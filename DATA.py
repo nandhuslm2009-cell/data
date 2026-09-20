@@ -1,5 +1,0 @@
-mark1=int(input("enter the first mark:"))
-mark2=int(input("enter the second mark:"))
-mark3=int(input("enter the third mark:"))
-print("TOTAL MARKS:",mark1+mark2+mark3)
-print("AVERAGE MARKS:",(mark1+mark2+mark3)/3)
